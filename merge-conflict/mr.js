@@ -1,2 +1,2 @@
 console.log('conflict');
-console.log('updated for first time');
+console.log('updated for first time ');
